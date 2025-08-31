@@ -15,8 +15,7 @@ It demonstrates data integration, transformation, and visualization for real-tim
 
 
 ## Dashboard Preview
-![Page 1](screenshot1.png)  
-![Page 2](screenshot2.png)
+
 
 ## Insights
 - Analyzed **4508 distinct stocks**.  
