@@ -2,6 +2,7 @@
 Power BI dashboard for stock market analysis and sector insights.
 It demonstrates data integration, transformation, and visualization for real-time decision making.
 
+
 ## Features
 - Combined multiple data sources using **Power Query**.  
 - Interactive visuals:
@@ -15,6 +16,9 @@ It demonstrates data integration, transformation, and visualization for real-tim
 
 
 ## Dashboard Preview
+![Dashboard Page 1](Dashboard1.1.png)
+
+![Dashboard Page 2](Dashboard1.2.png)
 
 
 ## Insights
@@ -23,10 +27,12 @@ It demonstrates data integration, transformation, and visualization for real-tim
 - Oil & Gas contributed **37.24% of revenue**.  
 - Tires & Rubber, Machinery, and Pharma sectors led in close price performance.  
 
+
 ## Tools Used
 - Power BI Desktop  
 - Power Query  
 - Excel datasets  
+
 
 ## Author
 **Asmin Khan**  
